@@ -10,7 +10,6 @@ Time spent: **8** hours
 
 The following **required** functionality is completed:
 
-<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
 - [x] **A logical component structure in React is used to create the frontend of the app**
 - [x] **At least five content creators are displayed on the homepage of the app**
 - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
@@ -55,8 +54,6 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app or any additional context you'd like to add.
 
 **Challenges encountered:**
 - **CSS Centering Issues**: Initially struggled with content alignment, learned to use flexbox for reliable centering instead of text-align
